@@ -2,7 +2,7 @@
 
 I am a Graduate Student of Coding Dojo Coding Bootcamp | Full Stack Developer. I like to build apps and other fun projects in JavaScript and Python to keep up my coding skills. 
 
-Try Out Promptopia ([https://dsakkos.github.io/JS_BackGround_Generator/](https://promptopia-9gteuu1py-dsakkos.vercel.app/))
+Try Out Promptopia https://promptopia-9gteuu1py-dsakkos.vercel.app/
 
 ## Contact
 
